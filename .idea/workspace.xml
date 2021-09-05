@@ -1,8 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bbf0e2c1-ddb5-4c56-8328-e1a9e236a7e3" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="bbf0e2c1-ddb5-4c56-8328-e1a9e236a7e3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/autotiling/cat/esteve/autotiling/ArrayUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/autotiling/cat/esteve/autotiling/ArrayUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/autotiling/cat/esteve/autotiling/JSONUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/autotiling/cat/esteve/autotiling/JSONUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/autotiling/cat/esteve/autotiling/Start.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/autotiling/cat/esteve/autotiling/Start.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/autotiling/cat/esteve/autotiling/gfx/MainCanvas.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/autotiling/cat/esteve/autotiling/gfx/MainCanvas.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/autotiling/cat/esteve/autotiling/gfx/SpriteSheet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/autotiling/cat/esteve/autotiling/gfx/SpriteSheet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/autotiling/cat/esteve/autotiling/input/MouseInput.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/autotiling/cat/esteve/autotiling/input/MouseInput.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/autotiling/cat/esteve/autotiling/level/Level$TileBlueprint.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/autotiling/cat/esteve/autotiling/level/Level$TileBlueprint.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/autotiling/cat/esteve/autotiling/level/Level.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/autotiling/cat/esteve/autotiling/level/Level.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/autotiling/cat/esteve/autotiling/level/PatternLoader.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/autotiling/cat/esteve/autotiling/level/PatternLoader.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/autotiling/cat/esteve/autotiling/level/tiles/Tile.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/autotiling/cat/esteve/autotiling/level/tiles/Tile.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/autotiling/cat/esteve/autotiling/level/tiles/TilePattern.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/autotiling/cat/esteve/autotiling/level/tiles/TilePattern.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/autotiling/cat/esteve/autotiling/main/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/autotiling/cat/esteve/autotiling/main/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/autotiling/gfx/tiles/cavesofgallet_mod.png" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/autotiling/gfx/tiles/cavesofgallet_mod.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/autotiling/patterns/patterns.json" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/autotiling/patterns/patterns.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cat/esteve/autotiling/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cat/esteve/autotiling/main/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,31 +36,32 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1ZMmSViHasD95jjnStJhSiwQY4e" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="R:\dev\java\autotiling\lib" />
     </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager">
     <configuration name="Start" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -64,6 +83,7 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -78,10 +98,22 @@
       <workItem from="1584709683493" duration="14145000" />
       <workItem from="1584801121873" duration="532000" />
       <workItem from="1585578483806" duration="732000" />
+      <workItem from="1630815734995" duration="999000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
